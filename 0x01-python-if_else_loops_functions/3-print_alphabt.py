@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-for char in range(97, 123):
-    if char == 101 or char == 113:
-        continue
-    print('{:c}'.format(char), end="")
+# Author - Martin Omondi
+for letter in range(97, 123):
+    if chr(letter) != 'q' and chr(letter) != 'e':
+        print("{}".format(chr(letter)), end="")
