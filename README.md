@@ -1,1 +1,1 @@
-This repository is created for the learning of higher level programming languages in ALX
+This is for the learning of python data structures
